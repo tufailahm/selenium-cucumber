@@ -1,5 +1,6 @@
 Feature: to test google search functionality
 
+  @googletest
   Scenario: check if the google search feature functions correctly
     Given new browser is open
     And user is on home page

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="4" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="4" time="0.426">
+    <testcase classname="feature to test login functionality" name="just demo" time="0.083">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception"><![CDATA[Given demo for tags.........................................................undefined
+]]></failure>
+    </testcase>
+    <testcase classname="feature to test login functionality" name="just dao" time="0.002">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception"><![CDATA[Given demo for tags.........................................................undefined
+]]></failure>
+    </testcase>
+    <testcase classname="feature to test login functionality" name="just service and controller" time="0.001">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception"><![CDATA[Given demo for tags.........................................................undefined
+]]></failure>
+    </testcase>
+    <testcase classname="feature to test login functionality" name="just controller" time="0.004">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception"><![CDATA[Given demo for tags.........................................................undefined
+]]></failure>
+    </testcase>
+</testsuite>
